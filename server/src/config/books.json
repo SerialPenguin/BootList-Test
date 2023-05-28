@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "quantity": 77
+  },
+  {
+    "title": "Harry potter the sorcerer's stone",
+    "author": "J.K Rowling",
+    "quantity": 15
+  },
+  {
+    "title": "The nightingale ",
+    "author": "Hannah Kerstin",
+    "quantity": 100
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "quantity": 105
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "quantity": 55
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "quantity": 206
+  },
+  {
+    "title": "In Search of Lost Time ",
+    "author": "Marcel Proust",
+    "quantity": 77
+  }
+]
